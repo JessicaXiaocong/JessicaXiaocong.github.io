@@ -2,11 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: About me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
+      - title: "Hello! I am pursuing my PhD in <a href='https://ceat.okstate.edu/iem/'>Industrial Engineering and Management</a> at <a href='https://go.okstate.edu'>Oklahoma State University</a> advised by <a href='https://austinlbuchanan.github.io'>Dr. Austin Buchanan</a>.
+      - title: You can contact me via xiaocong.zhen10@okstate.edu
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
