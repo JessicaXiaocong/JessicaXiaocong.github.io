@@ -5,9 +5,23 @@ entries:
     entries:
       - title: "Hello! I am pursuing my PhD in <a href='https://ceat.okstate.edu/iem/'>Industrial Engineering and Management</a> at <a href='https://go.okstate.edu'>Oklahoma State University</a> advised by <a href='https://austinlbuchanan.github.io'>Dr. Austin Buchanan</a>"
       - title: My research interest is mainly on operations research, network flow, community detection and among others
-        url: https://github.com/riggraz/no-style-please
       - title: "You can contact me via xiaocong.zhen10@okstate.edu as well as my Linkedin <a href='https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/'>here</a>"
-    
+  
+  - title: Education
+    entries:
+      - title: Doctor of Philosiphy in Industrial Engineering and Management, Oklahoma State University, Stillwater, OK (ongoing)
+      - title: Mater of Science in Operations Research, Shandong University, China (2022)
+      - title: Bachelor of Science in Mathematics (Specilization: Mathematics Teacher Education), Shenyang Normal University, China (2019)
+  
+  - title: Publications
+    entries:
+      - title: Song, T.Z., Zhen, X.C., Gao, W. and Zhu, W., 2022. Identification of potential driving genes in prostatic cancer using complex network analysis. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 10(6), pp.616-621.
+  
+  - title: Contact me 
+    entries:
+      - title: Linkedin
+      - title: Github 
+
   - title: all posts
     post_list:
       limit: 5
