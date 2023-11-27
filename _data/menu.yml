@@ -6,21 +6,17 @@ entries:
       - title: "Hello! I am pursuing my PhD in <a href='https://ceat.okstate.edu/iem/'>Industrial Engineering and Management</a> at <a href='https://go.okstate.edu'>Oklahoma State University</a> advised by <a href='https://austinlbuchanan.github.io'>Dr. Austin Buchanan</a>"
       - title: My research interest is mainly on operations research, network flow, community detection and among others
       - title: "You can contact me via xiaocong.zhen10@okstate.edu as well as my Linkedin <a href='https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/'>here</a>"
+  - title: Education
+    entries:
       - title: PhD in Industrial Engineering and Management, Oklahoma State University, Stillwater, OK 
       - title: Mater of Science in Operations Research, Shandong University, China 
       - title: Bachelor of Science in Mathematics, Shenyang Normal University, China   
   - title: all posts
     post_list:
-      limit: 5
+      limit: 1
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
 
     
