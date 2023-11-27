@@ -18,12 +18,40 @@ entries:
         - title: Song, T.Z., Zhen, X.C., Gao, W. and Zhu, W., 2022. Identification of potential driving genes in prostatic cancer using complex network analysis. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 10(6), pp.616-621.
           url: https://www.tandfonline.com/doi/abs/10.1080/21681163.2021.2015722
 
-    - title: Contact me 
+  - title: Contact me 
       entries:
         - title: Linkedin
           url: https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/
         - title: Github
           url: https://github.com/JessicaXiaocong/
+    
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+
+  - title: rss
+    url: feed.xml
+  
+  - title: another list
+    entries:
+      - title: with subitems
+        entries:
+          - title: with subsubitems
+          - title: example page
+            url: about
+  - title: PRO TIP
+    entries:
+      - title: to edit this menu, edit _data/menu.yml file
 
     
     
