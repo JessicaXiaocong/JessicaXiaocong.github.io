@@ -8,9 +8,12 @@ entries:
       - title: "You can contact me via xiaocong.zhen10@okstate.edu as well as my Linkedin <a href='https://www.linkedin.com/in/xiaocong-zhen-18b1b128b/'>here</a>"
   - title: Education
     entries:
-      - title: PhD in Industrial Engineering and Management, Oklahoma State University, Stillwater, OK 
-      - title: Mater of Science in Operations Research, Shandong University, China 
-      - title: Bachelor of Science in Mathematics, Shenyang Normal University, China   
+      - title: PhD in Industrial Engineering and Management, Oklahoma State University, Stillwater, OK, ongoing
+      - title: Mater of Science in Operations Research, Shandong University, China, 2022
+      - title: Bachelor of Science in Mathematics, Shenyang Normal University, China, 2019   
+  - title: Publications
+    entries:
+      - title: Song, T.Z., Zhen, X.C., Gao, W. and Zhu, W., 2022. Identification of potential driving genes in prostatic cancer using complex network analysis. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization, 10(6), pp.616-621.
   - title: all posts
     post_list:
       limit: 1
